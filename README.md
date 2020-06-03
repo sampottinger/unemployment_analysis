@@ -46,4 +46,4 @@ Non-code resources also used:
 
  - [Lato](http://www.latofonts.com/lato-free-fonts/) under the [SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
  - [Colorbrewer 2](https://colorbrewer2.org/) under the [Apache v2 License](https://github.com/axismaps/colorbrewer/blob/master/LICENCE.txt).
-  - [Processing 4 Core](https://processing.org/) under the [LGPL v2.1 license](https://github.com/processing/processing4/blob/master/LICENSE.md). Note that this is only used in generating viz images and does not impact the licensing of the this code.
+  - Code written in [Processing](https://processing.org/) programming language under the [LGPL v2.1 license](https://github.com/processing/processing4/blob/master/LICENSE.md).
