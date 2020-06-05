@@ -80,11 +80,11 @@ void drawBodyHeaders(Dataset dataset) {
 
   fill(PRIOR_COLOR);
   textAlign(RIGHT, BOTTOM);
-  text("04/19", START_UNEMPLOYEMENT_X + BAR_WIDTH / 2 - 3, 14);
+  text("05/19", START_UNEMPLOYEMENT_X + BAR_WIDTH / 2 - 3, 14);
 
   fill(CURRENT_COLOR);
   textAlign(LEFT, BOTTOM);
-  text("04/20", START_UNEMPLOYEMENT_X + BAR_WIDTH / 2 + 3, 14);
+  text("05/20", START_UNEMPLOYEMENT_X + BAR_WIDTH / 2 + 3, 14);
 
   popStyle();
   popMatrix();

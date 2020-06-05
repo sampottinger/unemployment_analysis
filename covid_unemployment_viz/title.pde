@@ -17,7 +17,7 @@ void drawTitle() {
 
   textFont(SMALL_FONT);
   textAlign(RIGHT, BOTTOM);
-  text("BLS 4/19 and 4/20\n2018 5 year ACS Microdata", width - 5, HEADER_HEIGHT - 5);
+  text("BLS 5/19 and 5/20\n2018 5 year ACS Microdata", width - 5, HEADER_HEIGHT - 5);
 
   popStyle();
   popMatrix();
