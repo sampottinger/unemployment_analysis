@@ -9,7 +9,7 @@ import java.util.*;
  * Setup which runs and saves the unemployment visualization.
  */
 void setup() {
-  size(800, 600);
+  size(800, 630);
   loadSemiconstants();
   Dataset data = loadData();
 
