@@ -12,8 +12,8 @@ Explore and visualize data around unemployment, wage inequality, and uninsurance
 
 Works Cited
 ----------------------------------------------------------------------------------------------------
-1. "Employment Situation Summary." _U.S. Bureau of Labor Statistics Economic News Release_, U.S. Bureau of Labor Statistics, 11 May 2020, [www.bls.gov/news.release/empsit.nr0.htm](https://www.bls.gov/news.release/empsit.nr0.htm).
-2. "A-30. Unemployed Persons by Occupation and Sex." _U.S. Bureau of Labor Statistics_, U.S. Bureau of Labor Statistics, 11 May 2020, [www.bls.gov/web/empsit/cpseea30.htm](https://www.bls.gov/web/empsit/cpseea30.htm).
+1. "Employment Situation Summary." _U.S. Bureau of Labor Statistics Economic News Release_, U.S. Bureau of Labor Statistics, 5 June 2020, [www.bls.gov/news.release/empsit.nr0.htm](https://www.bls.gov/news.release/empsit.nr0.htm).
+2. "A-30. Unemployed Persons by Occupation and Sex." _U.S. Bureau of Labor Statistics_, U.S. Bureau of Labor Statistics, 5 June 2020, [www.bls.gov/web/empsit/cpseea30.htm](https://www.bls.gov/web/empsit/cpseea30.htm).
 3. "May 2019 National Occupational Employment and Wage Estimates." _U.S. Bureau of Labor Statistics_, U.S. Bureau of Labor Statistics, 31 Mar. 2020, [www.bls.gov/oes/current/oes_nat.htm](https://www.bls.gov/oes/current/oes_nat.htm).
 4. Durante, Alex, et al. "Report on the Economic Well-Being of U.S. Households in 2018 - May 2019 ." _Board of Governors of the Federal Reserve System_, [www.federalreserve.gov/publications/2019-economic-well-being-of-us-households-in-2018-dealing-with-unexpected-expenses.htm](https://www.federalreserve.gov/publications/2019-economic-well-being-of-us-households-in-2018-dealing-with-unexpected-expenses.htm).
 5. Witters, Dan. "In U.S., 14% With Likely COVID-19 to Avoid Care Due to Cost." _Gallup.com_, Gallup, Inc, 29 May 2020, [news.gallup.com/poll/309224/avoid-care-likely-covid-due-cost.aspx?mod=article_inline](https://news.gallup.com/poll/309224/avoid-care-likely-covid-due-cost.aspx?mod=article_inline).
