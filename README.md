@@ -1,6 +1,6 @@
 COVID Unemployemnt Analysis
 ====================================================================================================
-Analysis to understand the parts of the workforce economically impacted by COVID-19. Released under the [MIT License](https://opensource.org/licenses/MIT).
+Analysis to understand the parts of the workforce economically impacted by COVID-19. Released under the [MIT License](https://opensource.org/licenses/MIT). [See article](https://towardsdatascience.com/inequality-and-the-occupations-with-the-deepest-unemployment-b163ce422efd).
 
 <br>
 
