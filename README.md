@@ -36,6 +36,12 @@ Execution of statistical analysis requires the installation of [Jupyter](https:/
 
 <br>
 
+Data
+----------------------------------------------------------------------------------------------------
+Data were assembled as described in the article from the sources above. Steps for preprocessing described in the view definitions available in the sqlite database within the `data_preprocessing` directory.
+
+<br>
+
 Open Source Libraries Used
 ----------------------------------------------------------------------------------------------------
 The following open source libraries were used:
